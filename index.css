@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(105, 24, 58);
+    color: white;
+    font-family:cursive;
+    border-color: white;
+}
+.button-tool-pathgriho {
+    border-radius: 20px;
+    padding:18px;
+    background-color: rgb(253, 17, 57);
+    color: white;
+    font-size: 15px;
+    
+    
+}
+.button-tool-pathgriho:hover {
+    background-color: white(10, 206, 206);
+    color: black;
+}
+.pathgriho-box {
+    width: 60%;
+    height: 32px;
+    border-radius: 15px;
+}
+h1{
+    border-top: 3ch;
+    border-color: azure;
+    padding: 25px 50px 75px 100px;
+    background-color: rgb(167, 5, 72);
+    border: none;
+    border-bottom: 2px solid white;
+
+  }
+  ::placeholder {
+    color: white;
+    opacity: 1;
+   
+  }
+  input[type=text] {
+    border: none;
+    border-bottom: 2px solid white;
+  }
+  body{
+    border: 5px solid white;
+  }
